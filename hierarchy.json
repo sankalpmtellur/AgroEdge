@@ -1,0 +1,62 @@
+{
+    "Board of Directors": {  
+      "CEO / Co-Founder": {
+        "Chief Operating Officer (COO)": {
+          "VP, Student Operations & Support": {
+            "Director, Student Onboarding": {},
+            "Director, Post-Training Mentorship & Market Access": {
+              "Regional Mentorship Teams": {}
+            }
+          },
+          "VP, Training Operations": {
+            "Director, Dairy Training Programs": {
+              "Field Trainers / Regional Leads": {}
+            },
+            "Director, Biofloc Training Programs": {
+              "Field Trainers / Regional Leads": {}
+            }
+          }
+        },
+        "Chief Product Officer (CPO) – EdTech & Curriculum": {
+          "VP, Curriculum & Instruction": {
+            "Dairy Curriculum Team": {},
+            "Biofloc Curriculum Team": {}
+          },
+          "Director, Digital Learning Platform": {}
+        },
+        "Chief Financial Officer (CFO)": {
+          "VP, Finance & NBFC Relations": {
+            "Director, Loan Operations": {},
+            "Director, Student EMI Tracking & Compliance": {}
+          },
+          "Accounting & FP&A Teams": {}
+        },
+        "Chief Technology Officer (CTO)": {
+          "VP, Engineering": {
+            "Platform Development Team (Student Portal, Loan App)": {},
+            "Data & Analytics Team": {}
+          }
+        },
+        "Chief Marketing Officer (CMO)": {
+          "VP, Rural Marketing & Community Engagement": {
+            "Director, Village Activation & Roadshows": {},
+            "Regional Marketing Teams": {}
+          },
+          "VP, Brand & Communications": {
+            "Content, Social Media & PR": {}
+          }
+        },
+        "Chief Growth Officer (CGO) or Chief Strategy Officer": {
+          "VP, University & KVK Partnerships": {},
+          "VP, Government & Policy Initiatives (for subsidy/tie-up alignment)": {}
+        },
+        "Chief People Officer (CHRO)": {
+          "VP, Human Resources": {
+            "Talent Acquisition (recruiting trainers, ops, tech)": {},
+            "People Ops & Culture": {}
+          }
+        }
+      }
+    }
+  }
+  
