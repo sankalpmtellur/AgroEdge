@@ -15,9 +15,9 @@ const SuccessStories = () => {
       age: 28,
       location: "Haryana",
       farmType: t("dairy"),
-      earningBefore: "₹12,000/month",
-      earningAfter: "₹42,000/month",
-      story: "After completing my training, I set up my dairy farm with 6 high-yield cows. The initial months were challenging, but with the support from the AgroEdge team, I quickly learned how to optimize my operations. Now I'm earning more than triple what I used to make as a factory worker. The best part is that I'm my own boss and can spend more time with my family.",
+      earningBefore: t("earningBefore"),
+      earningAfter: t("earningAfter"),
+      story: t("success_story_1"),
       image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
       hasVideo: true,
       videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ" // Example video URL
@@ -30,7 +30,7 @@ const SuccessStories = () => {
       farmType: t("dairy"),
       earningBefore: "₹8,000/month",
       earningAfter: "₹35,000/month",
-      story: "As a woman, I faced many challenges when I decided to start farming. AgroEdge not only provided financial support but also gave me the confidence to succeed. The comprehensive training covered everything from cattle management to financial planning. Today, I run a successful dairy farm and have inspired three other women in my village to join the program.",
+      story: t("success_story_2"),
       image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=776&q=80",
       hasVideo: true,
       videoUrl: "https://www.youtube.com/embed/jNQXAC9IVRw" // Example video URL
@@ -43,7 +43,7 @@ const SuccessStories = () => {
       farmType: t("biofloc"),
       earningBefore: "₹15,000/month",
       earningAfter: "₹38,000/month",
-      story: "I was skeptical about biofloc farming initially, but the science behind it made sense during the training. The setup was quick, and within three months, I had my first harvest. The demand for fish in my region is high, and I'm able to sell everything I produce. The biofloc system requires less land than traditional fish farming, which was perfect for me.",
+      story: t("success_story_3"),
       image: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
       hasVideo: false,
       videoUrl: ""
@@ -56,7 +56,7 @@ const SuccessStories = () => {
       farmType: t("dairy"),
       earningBefore: "₹10,000/month",
       earningAfter: "₹40,000/month",
-      story: "I joined the program after my husband fell ill and couldn't continue working. The zero upfront cost was what attracted me since we had limited savings. The AgroEdge team helped me set up everything from scratch. Now, not only am I earning enough to support my family but also saving for my children's education. The regular veterinary support from the program ensures my cattle stay healthy.",
+      story: t("success_story_4"),
       image: "https://images.unsplash.com/photo-1581403341630-a6e0b9d2d257?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
       hasVideo: true,
       videoUrl: "./rekha.mp4"
