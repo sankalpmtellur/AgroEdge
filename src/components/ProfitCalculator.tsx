@@ -189,7 +189,7 @@ const ProfitCalculatorComponent = () => {
               <div className="mt-6 grid grid-cols-1 md:grid-cols-2 gap-4">
                 <div className="p-4 bg-agrolight rounded-md flex flex-col items-center">
                   <Wallet className="text-agrodark mb-2" />
-                  <h3 className="font-semibold mb-1">{t("monthly_income")}</h3>
+                  <h3 className="text-sm font-semibold mb-1">{t("monthly_income")}</h3>
                   <p className="text-xl font-bold text-agrodark">₹{monthlyIncome.toLocaleString()}</p>
                 </div>
                 <div className="p-4 bg-agrolight rounded-md flex flex-col items-center">
@@ -202,7 +202,7 @@ const ProfitCalculatorComponent = () => {
 
             <div>
               <h3 className="text-lg font-semibold mb-4">{t("income_distribution")}</h3>
-              <div className="h-64 w-full">
+              <div className="h-full w-full">
                 <Pie data={pieChartData} options={pieChartOptions} />
               </div>
             </div>
